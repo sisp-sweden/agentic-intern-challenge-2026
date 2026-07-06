@@ -8,7 +8,7 @@ Write the **system prompt** you'd give an LLM agent whose job is to read one of 
 
 The deliverable here *is* the prompt — there's no separate app to build. Five example applications are in `examples/`, each messy in a different, realistic way. Use them to actually test and refine what you write; don't just write a prompt once and assume it holds up.
 
-One of the examples mixes English and Swedish, since that's realistic for us — but you don't need to read Swedish yourself to handle it. All four gradable fields are recoverable from the English portions alone; the trap is about extracting the right fields from a messy structure, not about translation.
+One of the examples mixes English and Swedish, since that's realistic for us — but you don't need to read Swedish yourself to handle it. The Swedish clauses only add color; every field that example actually states (stage, industry, ask) is stated in the English portions. Like two of the other examples, it never states a startup name at all — that's intentional throughout, testing whether your prompt correctly outputs "not specified" rather than guessing one.
 
 ## Submit
 

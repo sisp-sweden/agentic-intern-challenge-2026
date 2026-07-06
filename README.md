@@ -16,22 +16,23 @@ We're looking for people who can **conduct**, not just play solo. Someone who fr
 
 | | Task | ~Time | Tests |
 |---|---|---|---|
-| A | [Debug](tasks/a-debug/) | 20–30 min | Comprehension, not trusting the first diagnosis |
-| B | [SQL / data](tasks/b-sql-data/) | 20–30 min | Giving a model the context it needs, edge-case rigor |
-| C | [Open-ended build](tasks/c-open-ended-build/) | 30–40 min | Decomposition, handling an underspecified brief |
-| D | [Meta: design a prompt](tasks/d-meta-prompt/) | 20–30 min | Prompting as the deliverable itself |
+| A | [Debug](tasks/a-debug/) | 20–30 min | Comprehension, not trusting the first diagnosis, verification |
+| B | [SQL / data](tasks/b-sql-data/) | 20–30 min | Context provision, edge-case rigor |
+| C | [Open-ended build](tasks/c-open-ended-build/) | 30–40 min | Decomposition, architecture, handling ambiguity |
+| D | [Meta: design a prompt](tasks/d-meta-prompt/) | 20–30 min | Purest signal for agentic work — prompting is the deliverable |
 
 Each task folder has its own README with the brief and any starter files. Any order works — there's no dependency between them.
 
-## What to submit, per task
+## What to submit
 
-For **each** of the 4 tasks, submit:
+Once, for the whole challenge: **which model you used** (one line is fine — Claude, ChatGPT, Gemini, Copilot, whatever).
+
+Then, for **each** of the 4 tasks:
 
 1. **Your solution** (code, query, or written answer — whatever the task asks for).
-2. **Your complete chat transcript** with the model you used — the whole conversation, not a summary or the highlights. This is the part we actually read first.
-3. **Which model you used** (one line is fine).
+2. **Your complete chat transcript** with that model — the whole conversation, not a summary or the highlights. This is the part we actually read first.
 
-Submit everything through the form here: **[submission form link — coming soon]**. If you're reading this before the link is live, hold onto your answers and transcripts; we'll follow up with where to send them.
+Submit everything through the form here: **[Submission form](https://agentic-intern-eval-2026.vercel.app)**.
 
 There's no fork, no PR, no git required — paste your answers into the form as plain text. If you're more comfortable writing code than using git, that's exactly who this format is for.
 
