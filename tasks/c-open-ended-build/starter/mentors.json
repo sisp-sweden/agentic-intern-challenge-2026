@@ -1,0 +1,5 @@
+[
+  { "id": "m1", "name": "Elin Aström", "expertise": "go-to-market", "monthlyCapacity": 2 },
+  { "id": "m2", "name": "Marcus Bly", "expertise": "hardware ops", "monthlyCapacity": 1 },
+  { "id": "m3", "name": "Priya Nandakumar", "expertise": "fundraising", "monthlyCapacity": 2 }
+]

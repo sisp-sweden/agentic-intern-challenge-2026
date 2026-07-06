@@ -1,0 +1,7 @@
+[
+  { "id": "s1", "name": "Voltbrew", "preferredMentorIds": ["m1", "m3", "m2"] },
+  { "id": "s2", "name": "Nordlys", "preferredMentorIds": ["m1", "m2", "m3"] },
+  { "id": "s3", "name": "Kelpwave", "preferredMentorIds": ["m2", "m1", "m3"] },
+  { "id": "s4", "name": "Driftloop", "preferredMentorIds": ["m1", "m3", "m2"] },
+  { "id": "s5", "name": "Solmark", "preferredMentorIds": ["m3", "m1", "m2"] }
+]

@@ -1,0 +1,1 @@
+Hej! Vi är ett team på 2 personer och bygger en plattform för att hjälpa mindre butiker med lagerhantering (inventory management). We are currently pre-seed, ingen finansiering ännu, and looking primarily for mentorship kring go-to-market strategier. Har testat med 5 butiker i Malmö hittills.
