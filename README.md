@@ -10,18 +10,18 @@ We're looking for people who can **conduct**, not just play solo. Someone who fr
 
 - **Use an LLM. We expect it and want to see it.** Use whichever model you like — Claude, ChatGPT, Gemini, Copilot, whatever you're comfortable with. Tell us which one in your submission (see below). We don't enforce this; the point is we're judging what you did with it, not which logo is on it.
 - **Every task is designed to be a little "LLM-hard."** A prompt that one-shots the answer without any back-and-forth usually means the task's edge cases got missed, not that you found a shortcut. A shorter transcript isn't automatically better — a shallow transcript that landed a mediocre result is a worse signal than a longer one that visibly caught and fixed a mistake.
-- **Time estimate: ~2 hours total**, roughly 20–40 minutes per task. This is a rough budget, not a hard stopwatch — we'd rather you finish with a clear head than rush the last task.
+- **Time estimate: ~2 hours total**, roughly 20–40 minutes per task. This is a rough budget, not a hard stopwatch — we'd rather you finish with a clear head than rush the last task. It assumes you've already got Node.js and a way to run a Postgres query handy (see Tasks A and B for zero-install fallbacks if you don't) — time spent on that setup doesn't count against the budget.
 
 ## The 4 tasks
 
-| | Task | Tests |
-|---|---|---|
-| A | [Debug](tasks/a-debug/) | Comprehension, not trusting the first diagnosis |
-| B | [SQL / data](tasks/b-sql-data/) | Giving a model the context it needs, edge-case rigor |
-| C | [Open-ended build](tasks/c-open-ended-build/) | Decomposition, handling an underspecified brief |
-| D | [Meta: design a prompt](tasks/d-meta-prompt/) | Prompting as the deliverable itself |
+| | Task | ~Time | Tests |
+|---|---|---|---|
+| A | [Debug](tasks/a-debug/) | 20–30 min | Comprehension, not trusting the first diagnosis |
+| B | [SQL / data](tasks/b-sql-data/) | 20–30 min | Giving a model the context it needs, edge-case rigor |
+| C | [Open-ended build](tasks/c-open-ended-build/) | 30–40 min | Decomposition, handling an underspecified brief |
+| D | [Meta: design a prompt](tasks/d-meta-prompt/) | 20–30 min | Prompting as the deliverable itself |
 
-Each task folder has its own README with the brief and any starter files.
+Each task folder has its own README with the brief and any starter files. Any order works — there's no dependency between them.
 
 ## What to submit, per task
 
@@ -31,7 +31,7 @@ For **each** of the 4 tasks, submit:
 2. **Your complete chat transcript** with the model you used — the whole conversation, not a summary or the highlights. This is the part we actually read first.
 3. **Which model you used** (one line is fine).
 
-Submit everything through the form here: **[submission form link — TBD, points to the private eval repo's hosted form]**.
+Submit everything through the form here: **[submission form link — coming soon]**. If you're reading this before the link is live, hold onto your answers and transcripts; we'll follow up with where to send them.
 
 There's no fork, no PR, no git required — paste your answers into the form as plain text. If you're more comfortable writing code than using git, that's exactly who this format is for.
 

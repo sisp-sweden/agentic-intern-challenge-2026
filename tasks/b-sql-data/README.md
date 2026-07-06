@@ -14,6 +14,13 @@ psql -d your_db -f schema.sql
 psql -d your_db -f seed.sql
 ```
 
+No Postgres installed? Either of these gets you a database in under a minute, no local install:
+
+- `docker run --rm -e POSTGRES_PASSWORD=pw -p 5432:5432 postgres` (needs Docker)
+- Paste `schema.sql` and `seed.sql` into a free online sandbox like [db-fiddle.com](https://www.db-fiddle.com/) (set the engine to PostgreSQL)
+
+Or skip running it entirely: trace the query against the seed data by hand with your model and show that reasoning in your transcript — we care more about a correct, verified answer than about which environment produced it.
+
 ## Your task
 
 Write a single query that returns, for each startup with at least one **completed** application: the startup's name, its total mentor session count, and its most recent session date.

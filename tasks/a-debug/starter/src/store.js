@@ -38,8 +38,7 @@ export async function commitWaitlist(eventId, userId) {
   const event = events.get(eventId);
   if (!event) throw new Error(`unknown event: ${eventId}`);
   event.waitlistIds.push(userId);
-  // Position is reported back to the caller so a future "you're #N in line"
-  // notification can use it. Nothing else reads this value today.
+  // Position is reported back to the caller for the "you're #N in line" copy.
   const waitlistPosition = event.waitlistIds.length - 1;
   return waitlistPosition;
 }

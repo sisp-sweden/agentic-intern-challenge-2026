@@ -16,13 +16,13 @@ starter/
     rsvp.concurrency.test.js       — a test that reproduces the reported symptom
 ```
 
-Requires Node 18+, no `npm install` needed — it's dependency-free.
+Requires Node 18+, no `npm install` needed — it's dependency-free. No Node handy? Paste `src/rsvp.js` and `src/store.js` into your model and reason through the race by hand instead — a correct diagnosis matters more than actually running the test.
 
 ## Steps
 
-1. From `starter/`, run the test:
+1. Run the test:
    ```
-   npm test
+   cd starter && npm test
    ```
    It should **fail** — that failure is the bug, reproduced. Read what it's telling you.
 2. Find the actual defect in `src/`. Fix it so the test passes.

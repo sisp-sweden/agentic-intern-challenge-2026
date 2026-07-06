@@ -8,6 +8,8 @@ Write the **system prompt** you'd give an LLM agent whose job is to read one of 
 
 The deliverable here *is* the prompt — there's no separate app to build. Five example applications are in `examples/`, each messy in a different, realistic way. Use them to actually test and refine what you write; don't just write a prompt once and assume it holds up.
 
+One of the examples mixes English and Swedish, since that's realistic for us — but you don't need to read Swedish yourself to handle it. All four gradable fields are recoverable from the English portions alone; the trap is about extracting the right fields from a messy structure, not about translation.
+
 ## Submit
 
 - Your final system prompt
