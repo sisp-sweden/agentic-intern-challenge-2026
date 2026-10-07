@@ -1,0 +1,62 @@
+{
+  "title": "Fieldnote",
+  "baseUrl": "https://fieldnote.example",
+  "timezone": "Europe/Stockholm",
+  "nav": [
+    {
+      "label": "Calls",
+      "path": "/calls/"
+    },
+    {
+      "label": "Mentors",
+      "path": "/mentors/"
+    },
+    {
+      "label": "Events",
+      "path": "/events/"
+    },
+    {
+      "label": "Blog",
+      "path": "/blog/"
+    },
+    {
+      "label": "FAQ",
+      "path": "/faq/"
+    }
+  ],
+  "feed": {
+    "path": "/feed.xml",
+    "sections": [
+      "calls",
+      "blog",
+      "events"
+    ],
+    "freezeItems": true,
+    "limit": 20,
+    "published": "published/feed-items.json",
+    "more": [
+      {
+        "path": "/blog.xml",
+        "title": "Fieldnote blog",
+        "sections": [
+          "blog"
+        ]
+      },
+      {
+        "path": "/events.xml",
+        "title": "Fieldnote events",
+        "sections": [
+          "events"
+        ]
+      },
+      {
+        "path": "/calls.xml",
+        "title": "Fieldnote calls",
+        "sections": [
+          "calls"
+        ]
+      }
+    ]
+  },
+  "description": "News, calls and events from the Fieldnote accelerator"
+}

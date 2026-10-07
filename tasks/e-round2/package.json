@@ -1,0 +1,18 @@
+{
+  "name": "fieldnote",
+  "version": "1.4.0",
+  "private": true,
+  "description": "Fieldnote accelerator tooling: application scoring and ranking",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "imports": {
+    "#scoring": {
+      "fieldnote-live": "./src/rank/score.js",
+      "default": "./src/scoring/index.js"
+    }
+  },
+  "scripts": {
+    "rank": "node jobs/rank.js",
+    "test": "node --test"
+  }
+}

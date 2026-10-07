@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fieldnote calls</title>
+    <link>https://fieldnote.example</link>
+    <description>News, calls and events from the Fieldnote accelerator</description>
+    <item>
+      <title>Round 2 call for applications is open</title>
+      <guid>https://fieldnote.example/calls/2026-round2</guid>
+      <pubDate>Thu, 15 Jan 2026 09:00:00 +0100</pubDate>
+      <description>Round 2 of the Fieldnote accelerator is open for applications until 2026-03-01 23:59:59 Stockholm time.
+
+How we assess. Criteria and weights unchanged from round 1: team 20%, traction 25%, market 20%, product 20%, deeptech 15%. Each criterion is scored 0-100; team counts at most 4 founders. The total is rounded to one decimal, round half up, and applications with a total of 70.0 or more are invited to interview. Founders who took part in an earlier Fieldnote programme receive +3 points.
+
+Currency. Revenue reported by entities in Finland or Estonia is in EUR and is converted at EUR 1 = SEK 11.50 before scoring.
+
+Eligibility. One application per startup per calendar year; withdrawn applications don't count. Applications are assessed as submitted at the deadline.
+
+Apply on the programme page. Questions to programme@fieldnote.example.</description>
+    </item>
+    <item>
+      <title>Round 1 call for applications</title>
+      <guid>https://fieldnote.example/calls/2025-round1</guid>
+      <pubDate>Mon, 10 Nov 2025 09:00:00 +0100</pubDate>
+      <description>Round 1 of the Fieldnote accelerator is open for applications until 2026-01-05 23:59:59 Stockholm time.</description>
+    </item>
+  </channel>
+</rss>

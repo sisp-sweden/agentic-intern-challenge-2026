@@ -1,0 +1,8 @@
+[Unit]
+Description=Fieldnote application ranking run
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/fieldnote
+EnvironmentFile=/opt/fieldnote/deploy/production.env
+ExecStart=/usr/bin/npm run rank
