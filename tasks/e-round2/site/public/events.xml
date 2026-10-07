@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fieldnote events</title>
+    <link>https://fieldnote.example</link>
+    <description>News, calls and events from the Fieldnote accelerator</description>
+    <item>
+      <title>Spring planning evening</title>
+      <guid>https://fieldnote.example/events/spring-planning-evening</guid>
+      <pubDate>Wed, 18 Mar 2026 09:00:00 +0100</pubDate>
+      <description>When: Wed 2026-03-18, 17:30, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Grant writing session</title>
+      <guid>https://fieldnote.example/events/grant-writing-session</guid>
+      <pubDate>Thu, 12 Mar 2026 09:00:00 +0100</pubDate>
+      <description>When: Thu 2026-03-12, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Investor office hours</title>
+      <guid>https://fieldnote.example/events/investor-office-hours</guid>
+      <pubDate>Thu, 05 Mar 2026 09:00:00 +0100</pubDate>
+      <description>When: Thu 2026-03-05, 13:00 to 17:00, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Founder lunch</title>
+      <guid>https://fieldnote.example/events/founder-lunch</guid>
+      <pubDate>Thu, 19 Feb 2026 09:00:00 +0100</pubDate>
+      <description>When: Thu 2026-02-19, 12:00, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Winter demo day: save the date</title>
+      <guid>https://fieldnote.example/events/winter-demo-day</guid>
+      <pubDate>Tue, 03 Feb 2026 09:30:00 +0100</pubDate>
+      <description>Winter demo day is on 2026-02-26. Doors open at 16:00 and seats are limited, so RSVP early.</description>
+    </item>
+    <item>
+      <title>Customer interview lab</title>
+      <guid>https://fieldnote.example/events/customer-interview-lab</guid>
+      <pubDate>Thu, 29 Jan 2026 09:00:00 +0100</pubDate>
+      <description>When: Thu 2026-01-29, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Autumn demo day</title>
+      <guid>https://fieldnote.example/events/autumn-demo-day</guid>
+      <pubDate>Thu, 11 Dec 2025 09:00:00 +0100</pubDate>
+      <description>When: Thu 2025-12-11, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Legal clinic: shareholder agreements</title>
+      <guid>https://fieldnote.example/events/legal-clinic</guid>
+      <pubDate>Thu, 13 Nov 2025 09:00:00 +0100</pubDate>
+      <description>When: Thu 2025-11-13, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Hardware office hours</title>
+      <guid>https://fieldnote.example/events/hardware-office-hours</guid>
+      <pubDate>Thu, 23 Oct 2025 09:00:00 +0200</pubDate>
+      <description>When: Thu 2025-10-23, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Pitch workshop with Astrid Lindqvist</title>
+      <guid>https://fieldnote.example/events/pitch-workshop</guid>
+      <pubDate>Thu, 09 Oct 2025 09:00:00 +0200</pubDate>
+      <description>When: Thu 2025-10-09, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Welcome evening for the autumn cohort</title>
+      <guid>https://fieldnote.example/events/welcome-evening</guid>
+      <pubDate>Thu, 18 Sept 2025 09:00:00 +0200</pubDate>
+      <description>When: Thu 2025-09-18, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+  </channel>
+</rss>

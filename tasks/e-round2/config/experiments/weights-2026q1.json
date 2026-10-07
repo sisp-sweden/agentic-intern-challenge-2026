@@ -1,0 +1,4 @@
+{
+  "fromRound": 2,
+  "weights": { "team": 20, "traction": 15, "market": 20, "product": 20, "deeptech": 25 }
+}

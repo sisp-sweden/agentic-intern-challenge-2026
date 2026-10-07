@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fieldnote</title>
+    <link>https://fieldnote.example</link>
+    <description>News, calls and events from the Fieldnote accelerator</description>
+    <item>
+      <title>Spring planning evening</title>
+      <guid>https://fieldnote.example/events/spring-planning-evening</guid>
+      <pubDate>Wed, 18 Mar 2026 09:00:00 +0100</pubDate>
+      <description>When: Wed 2026-03-18, 17:30, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Grant writing session</title>
+      <guid>https://fieldnote.example/events/grant-writing-session</guid>
+      <pubDate>Thu, 12 Mar 2026 09:00:00 +0100</pubDate>
+      <description>When: Thu 2026-03-12, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>How interview day works</title>
+      <guid>https://fieldnote.example/blog/how-interview-day-works</guid>
+      <pubDate>Mon, 09 Mar 2026 09:00:00 +0100</pubDate>
+      <description>What to expect when you come to the office for your interview: who is in the room and what we ask.</description>
+    </item>
+    <item>
+      <title>Hiring your first engineer</title>
+      <guid>https://fieldnote.example/blog/hiring-your-first-engineer</guid>
+      <pubDate>Thu, 05 Mar 2026 09:00:00 +0100</pubDate>
+      <description>Henrik Ekström on where to find them, what to pay them and when to wait.</description>
+    </item>
+    <item>
+      <title>Investor office hours</title>
+      <guid>https://fieldnote.example/events/investor-office-hours</guid>
+      <pubDate>Thu, 05 Mar 2026 09:00:00 +0100</pubDate>
+      <description>When: Thu 2026-03-05, 13:00 to 17:00, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>A day at the Fieldnote office</title>
+      <guid>https://fieldnote.example/blog/a-day-at-the-office</guid>
+      <pubDate>Thu, 19 Feb 2026 09:00:00 +0100</pubDate>
+      <description>Stand-up at nine, mentor sessions all morning, quiet afternoons. What a normal Tuesday looks like.</description>
+    </item>
+    <item>
+      <title>Founder lunch</title>
+      <guid>https://fieldnote.example/events/founder-lunch</guid>
+      <pubDate>Thu, 19 Feb 2026 09:00:00 +0100</pubDate>
+      <description>When: Thu 2026-02-19, 12:00, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>What we mean by weighting at demo day</title>
+      <guid>https://fieldnote.example/blog/what-we-mean-by-weighting</guid>
+      <pubDate>Tue, 17 Feb 2026 09:00:00 +0100</pubDate>
+      <description>How the demo day audience vote is counted next to the mentor panel, and why we changed it.</description>
+    </item>
+    <item>
+      <title>Public grants for startups, explained</title>
+      <guid>https://fieldnote.example/blog/grants-explained</guid>
+      <pubDate>Thu, 12 Feb 2026 09:00:00 +0100</pubDate>
+      <description>The three kinds of public funding available to Swedish startups and what each one expects in return.</description>
+    </item>
+    <item>
+      <title>Other deadlines worth knowing</title>
+      <guid>https://fieldnote.example/blog/other-deadlines-worth-knowing</guid>
+      <pubDate>Thu, 05 Feb 2026 09:00:00 +0100</pubDate>
+      <description>Grants and programmes outside Fieldnote that close this spring, collected in one place.</description>
+    </item>
+    <item>
+      <title>Winter demo day: save the date</title>
+      <guid>https://fieldnote.example/events/winter-demo-day</guid>
+      <pubDate>Tue, 03 Feb 2026 09:30:00 +0100</pubDate>
+      <description>Winter demo day is on 2026-02-26. Doors open at 16:00 and seats are limited, so RSVP early.</description>
+    </item>
+    <item>
+      <title>Customer interview lab</title>
+      <guid>https://fieldnote.example/events/customer-interview-lab</guid>
+      <pubDate>Thu, 29 Jan 2026 09:00:00 +0100</pubDate>
+      <description>When: Thu 2026-01-29, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Notes from the finance desk</title>
+      <guid>https://fieldnote.example/blog/our-office-and-eur-invoices</guid>
+      <pubDate>Tue, 27 Jan 2026 09:00:00 +0100</pubDate>
+      <description>Two things our funders asked us to explain: how we are paid and how we report.</description>
+    </item>
+    <item>
+      <title>Meet the round 2 mentors</title>
+      <guid>https://fieldnote.example/blog/meet-the-round-2-mentors</guid>
+      <pubDate>Mon, 19 Jan 2026 10:00:00 +0100</pubDate>
+      <description>Eight mentors will give office hours to the spring cohort. Here is who they are and what they like to be asked about.</description>
+    </item>
+    <item>
+      <title>Round 2 call for applications is open</title>
+      <guid>https://fieldnote.example/calls/2026-round2</guid>
+      <pubDate>Thu, 15 Jan 2026 09:00:00 +0100</pubDate>
+      <description>Round 2 of the Fieldnote accelerator is open for applications until 2026-03-01 23:59:59 Stockholm time.
+
+How we assess. Criteria and weights unchanged from round 1: team 20%, traction 25%, market 20%, product 20%, deeptech 15%. Each criterion is scored 0-100; team counts at most 4 founders. The total is rounded to one decimal, round half up, and applications with a total of 70.0 or more are invited to interview. Founders who took part in an earlier Fieldnote programme receive +3 points.
+
+Currency. Revenue reported by entities in Finland or Estonia is in EUR and is converted at EUR 1 = SEK 11.50 before scoring.
+
+Eligibility. One application per startup per calendar year; withdrawn applications don't count. Applications are assessed as submitted at the deadline.
+
+Apply on the programme page. Questions to programme@fieldnote.example.</description>
+    </item>
+    <item>
+      <title>Round 1 is done</title>
+      <guid>https://fieldnote.example/blog/round-1-is-done</guid>
+      <pubDate>Wed, 14 Jan 2026 09:00:00 +0100</pubDate>
+      <description>Invitations for the first round went out this week. A few notes on what we saw in the pile.</description>
+    </item>
+    <item>
+      <title>Baltic startups to watch in 2026</title>
+      <guid>https://fieldnote.example/blog/baltic-startups-to-watch</guid>
+      <pubDate>Thu, 08 Jan 2026 09:00:00 +0100</pubDate>
+      <description>A handful of teams from Tallinn, Tartu and Riga that we have enjoyed talking to this winter.</description>
+    </item>
+    <item>
+      <title>Lessons from the autumn cohort</title>
+      <guid>https://fieldnote.example/blog/lessons-from-the-autumn-cohort</guid>
+      <pubDate>Mon, 15 Dec 2025 09:00:00 +0100</pubDate>
+      <description>Eight startups, twelve weeks, a lot of pivots. A few things we saw more than once.</description>
+    </item>
+    <item>
+      <title>Autumn demo day</title>
+      <guid>https://fieldnote.example/events/autumn-demo-day</guid>
+      <pubDate>Thu, 11 Dec 2025 09:00:00 +0100</pubDate>
+      <description>When: Thu 2025-12-11, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+    <item>
+      <title>Legal clinic: shareholder agreements</title>
+      <guid>https://fieldnote.example/events/legal-clinic</guid>
+      <pubDate>Thu, 13 Nov 2025 09:00:00 +0100</pubDate>
+      <description>When: Thu 2025-11-13, evening, Stockholm time Where: The Fieldnote office, Slussen</description>
+    </item>
+  </channel>
+</rss>

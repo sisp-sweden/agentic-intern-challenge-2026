@@ -1,0 +1,9 @@
+[Unit]
+Description=Fieldnote application ranking schedule
+
+[Timer]
+OnCalendar=2026-03-25 06:00:00 Europe/Stockholm
+Unit=fieldnote-rank.service
+
+[Install]
+WantedBy=timers.target

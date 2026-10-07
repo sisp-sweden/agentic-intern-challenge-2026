@@ -10,9 +10,9 @@ We're looking for people who can **conduct**, not just play solo. Someone who fr
 
 - **Use an LLM. We expect it and want to see it.** Use whichever model you like — Claude, ChatGPT, Gemini, Copilot, whatever you're comfortable with. Tell us which one in your submission (see below). We don't enforce this; the point is we're judging what you did with it, not which logo is on it.
 - **Every task is designed to be a little "LLM-hard."** A prompt that one-shots the answer without any back-and-forth usually means the task's edge cases got missed, not that you found a shortcut. A shorter transcript isn't automatically better — a shallow transcript that landed a mediocre result is a worse signal than a longer one that visibly caught and fixed a mistake.
-- **Time estimate: ~2 hours total**, roughly 20–40 minutes per task. This is a rough budget, not a hard stopwatch — we'd rather you finish with a clear head than rush the last task. It assumes you've already got Node.js and a way to run a Postgres query handy (see Tasks A and B for zero-install fallbacks if you don't) — time spent on that setup doesn't count against the budget.
+- **Time estimate: ~2.5 hours total**, roughly 20–45 minutes per task. This is a rough budget, not a hard stopwatch — we'd rather you finish with a clear head than rush the last task. It assumes you've already got Node.js and a way to run a Postgres query handy (see Tasks A and B for zero-install fallbacks if you don't) — time spent on that setup doesn't count against the budget.
 
-## The 4 tasks
+## The 5 tasks
 
 | | Task | ~Time | Tests |
 |---|---|---|---|
@@ -20,6 +20,7 @@ We're looking for people who can **conduct**, not just play solo. Someone who fr
 | B | [SQL / data](tasks/b-sql-data/) | 20–30 min | Context provision, edge-case rigor |
 | C | [Open-ended build](tasks/c-open-ended-build/) | 30–40 min | Decomposition, architecture, handling ambiguity |
 | D | [Meta: design a prompt](tasks/d-meta-prompt/) | 20–30 min | Purest signal for agentic work — prompting is the deliverable |
+| E | [Round 2 sign-off](tasks/e-round2/) | 30–45 min | Checking what really runs against what you're told, working with data too large to read by hand |
 
 Each task folder has its own README with the brief and any starter files. Any order works — there's no dependency between them.
 
@@ -27,9 +28,9 @@ Each task folder has its own README with the brief and any starter files. Any or
 
 Once, for the whole challenge: **which model you used** (one line is fine — Claude, ChatGPT, Gemini, Copilot, whatever).
 
-Then, for **each** of the 4 tasks:
+Then, for **each** of the 5 tasks:
 
-1. **Your solution** (code, query, or written answer — whatever the task asks for).
+1. **Your solution** (code, query, or written answer — whatever the task asks for; for Task E, the filled-in submission block from its README).
 2. **Your complete chat transcript** with that model — the whole conversation, not a summary or the highlights. This is the part we actually read first.
 
 Submit everything through the form here: **[Submission form](https://agentic-intern-eval-2026.vercel.app)**.

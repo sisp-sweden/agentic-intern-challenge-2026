@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fieldnote blog</title>
+    <link>https://fieldnote.example</link>
+    <description>News, calls and events from the Fieldnote accelerator</description>
+    <item>
+      <title>How interview day works</title>
+      <guid>https://fieldnote.example/blog/how-interview-day-works</guid>
+      <pubDate>Mon, 09 Mar 2026 09:00:00 +0100</pubDate>
+      <description>What to expect when you come to the office for your interview: who is in the room and what we ask.</description>
+    </item>
+    <item>
+      <title>Hiring your first engineer</title>
+      <guid>https://fieldnote.example/blog/hiring-your-first-engineer</guid>
+      <pubDate>Thu, 05 Mar 2026 09:00:00 +0100</pubDate>
+      <description>Henrik Ekström on where to find them, what to pay them and when to wait.</description>
+    </item>
+    <item>
+      <title>A day at the Fieldnote office</title>
+      <guid>https://fieldnote.example/blog/a-day-at-the-office</guid>
+      <pubDate>Thu, 19 Feb 2026 09:00:00 +0100</pubDate>
+      <description>Stand-up at nine, mentor sessions all morning, quiet afternoons. What a normal Tuesday looks like.</description>
+    </item>
+    <item>
+      <title>What we mean by weighting at demo day</title>
+      <guid>https://fieldnote.example/blog/what-we-mean-by-weighting</guid>
+      <pubDate>Tue, 17 Feb 2026 09:00:00 +0100</pubDate>
+      <description>How the demo day audience vote is counted next to the mentor panel, and why we changed it.</description>
+    </item>
+    <item>
+      <title>Public grants for startups, explained</title>
+      <guid>https://fieldnote.example/blog/grants-explained</guid>
+      <pubDate>Thu, 12 Feb 2026 09:00:00 +0100</pubDate>
+      <description>The three kinds of public funding available to Swedish startups and what each one expects in return.</description>
+    </item>
+    <item>
+      <title>Other deadlines worth knowing</title>
+      <guid>https://fieldnote.example/blog/other-deadlines-worth-knowing</guid>
+      <pubDate>Thu, 05 Feb 2026 09:00:00 +0100</pubDate>
+      <description>Grants and programmes outside Fieldnote that close this spring, collected in one place.</description>
+    </item>
+    <item>
+      <title>Notes from the finance desk</title>
+      <guid>https://fieldnote.example/blog/our-office-and-eur-invoices</guid>
+      <pubDate>Tue, 27 Jan 2026 09:00:00 +0100</pubDate>
+      <description>Two things our funders asked us to explain: how we are paid and how we report.</description>
+    </item>
+    <item>
+      <title>Meet the round 2 mentors</title>
+      <guid>https://fieldnote.example/blog/meet-the-round-2-mentors</guid>
+      <pubDate>Mon, 19 Jan 2026 10:00:00 +0100</pubDate>
+      <description>Eight mentors will give office hours to the spring cohort. Here is who they are and what they like to be asked about.</description>
+    </item>
+    <item>
+      <title>Round 1 is done</title>
+      <guid>https://fieldnote.example/blog/round-1-is-done</guid>
+      <pubDate>Wed, 14 Jan 2026 09:00:00 +0100</pubDate>
+      <description>Invitations for the first round went out this week. A few notes on what we saw in the pile.</description>
+    </item>
+    <item>
+      <title>Baltic startups to watch in 2026</title>
+      <guid>https://fieldnote.example/blog/baltic-startups-to-watch</guid>
+      <pubDate>Thu, 08 Jan 2026 09:00:00 +0100</pubDate>
+      <description>A handful of teams from Tallinn, Tartu and Riga that we have enjoyed talking to this winter.</description>
+    </item>
+    <item>
+      <title>Lessons from the autumn cohort</title>
+      <guid>https://fieldnote.example/blog/lessons-from-the-autumn-cohort</guid>
+      <pubDate>Mon, 15 Dec 2025 09:00:00 +0100</pubDate>
+      <description>Eight startups, twelve weeks, a lot of pivots. A few things we saw more than once.</description>
+    </item>
+    <item>
+      <title>How to get the most from office hours</title>
+      <guid>https://fieldnote.example/blog/how-we-use-office-hours</guid>
+      <pubDate>Wed, 05 Nov 2025 09:00:00 +0100</pubDate>
+      <description>Send three questions the day before. Leave with one decision. Follow up in writing.</description>
+    </item>
+    <item>
+      <title>Five questions your pitch should answer</title>
+      <guid>https://fieldnote.example/blog/five-questions-for-your-pitch</guid>
+      <pubDate>Wed, 15 Oct 2025 09:00:00 +0200</pubDate>
+      <description>Who is the customer, what is the problem, why now, why you and what do you need. Everything else is decoration.</description>
+    </item>
+    <item>
+      <title>What mentors actually do</title>
+      <guid>https://fieldnote.example/blog/what-mentors-do</guid>
+      <pubDate>Wed, 24 Sept 2025 09:00:00 +0200</pubDate>
+      <description>Mentors do not run your company. They ask the question you have been avoiding and tell you what they would try first.</description>
+    </item>
+    <item>
+      <title>Why we started Fieldnote</title>
+      <guid>https://fieldnote.example/blog/why-we-started-fieldnote</guid>
+      <pubDate>Wed, 03 Sept 2025 09:00:00 +0200</pubDate>
+      <description>A short history of the programme and the idea behind it: early teams need access to people who have done it before, more than they need money.</description>
+    </item>
+  </channel>
+</rss>
