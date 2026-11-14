@@ -1,0 +1,8 @@
+{
+  "name": "mentor-matching",
+  "private": true,
+  "scripts": {
+    "test": "node --test matcher.test.js",
+    "start": "node index.js"
+  }
+}

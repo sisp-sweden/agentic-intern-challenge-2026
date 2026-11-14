@@ -1,4 +1,4 @@
-import { getEvent, readAttendeeCount, commitAttendee, commitWaitlist } from "./store.js";
+import { getEvent, tryCommitAttendee, commitWaitlist } from "./store.js";
 
 // Confirms a seat if the event has room, otherwise adds the RSVP to the
 // waitlist. This is the flow event hosts are complaining about — occasionally
@@ -9,10 +9,7 @@ export async function rsvpToEvent(eventId, userId) {
     return { status: "not_found" };
   }
 
-  const currentAttendeeCount = await readAttendeeCount(eventId);
-
-  if (currentAttendeeCount < event.capacity) {
-    await commitAttendee(eventId, userId);
+  if (await tryCommitAttendee(eventId, userId)) {
     return { status: "confirmed" };
   }
 

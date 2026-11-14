@@ -29,3 +29,14 @@ That's intentional. Handle it however you think is right — the point isn't whi
 - Your **complete chat transcript** with whichever model you used
 
 ~30–40 minutes.
+
+## Implementation decisions
+
+- Matching is global: maximize the number of assigned startups, then minimize
+  preference-rank cost (Rank 1, 2, 3 cost 0, 1, 2).
+- Equivalent solutions are resolved deterministically by startup ID, then mentor
+  ID, so repeated runs are auditable.
+- A startup with no available preferred mentor is returned in `unassigned` with
+  reason `capacity_exhausted`; arbitrary fallback mentors are not assigned.
+- The dependency-free Node.js implementation is in `matcher.js`, with the CLI
+  in `index.js` and tests in `matcher.test.js`.
