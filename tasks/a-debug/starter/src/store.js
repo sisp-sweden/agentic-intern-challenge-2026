@@ -26,6 +26,15 @@ export async function readAttendeeCount(eventId) {
   return event ? event.attendeeIds.length : 0;
 }
 
+export async function tryCommitAttendee(eventId, userId) {
+  await simulatedLatency();
+  const event = events.get(eventId);
+  if (!event) throw new Error(`unknown event: ${eventId}`);
+  if (event.attendeeIds.length >= event.capacity) return false;
+  event.attendeeIds.push(userId);
+  return true;
+}
+
 export async function commitAttendee(eventId, userId) {
   await simulatedLatency();
   const event = events.get(eventId);
@@ -49,4 +58,14 @@ export function _resetForTests(eventId) {
     event.attendeeIds = [];
     event.waitlistIds = [];
   }
+}
+
+export function _createEventForTests(eventId, capacity) {
+  events.set(eventId, {
+    id: eventId,
+    name: eventId,
+    capacity,
+    attendeeIds: [],
+    waitlistIds: [],
+  });
 }
